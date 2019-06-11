@@ -1,0 +1,22 @@
+{
+  "name": "rp-node-docker",
+  "version": "1.0.0",
+  "description": "Simple Docker for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsoncf/rp-node-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsoncf/rp-node-docker/issues"
+  },
+  "homepage": "https://github.com/nelsoncf/rp-node-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
