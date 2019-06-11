@@ -11,13 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/nelsoncf/rp-node-docker.git"
   },
-  "author": "",
+  "author": "Nelson Campos",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nelsoncf/rp-node-docker/issues"
   },
   "homepage": "https://github.com/nelsoncf/rp-node-docker#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "4.17.1"
   }
 }
